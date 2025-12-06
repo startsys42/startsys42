@@ -27,18 +27,12 @@ yt
 kick
 
 
-## Destacado
-
+## Publications & Featured Projects
+-- usar mermaid para graficos
 ## Timeline
 
 
-## 🛠 Tecnologías utilizadas
-- Python, JavaScript, C++  
-- Unity / Godot  
-- Arduino / Raspberry Pi  
-- Blender, After Effects  
-- Bibliotecas de criptografía (PyCrypto, hashlib, etc.)
-
+## Technologies, Disciplines & Tools
 
 ---
 
