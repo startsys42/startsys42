@@ -85,7 +85,7 @@ Estado de dependencias / vulnerabilidades
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Proyectos Destacados
-[![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=startsys&repo=startsys42.github.io&theme=radical&show_owner=true)](https://github.com/startsys/startsys42.github.io)
+[![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=startsys42&repo=startsys42.github.io&theme=radical&show_owner=true)](https://github.com/startsys/startsys42.github.io)
 [![Repositorio 2](https://github-readme-stats.vercel.app/api/pin/?username=startsys&repo=TU_REPO_2&theme=radical&show_owner=true)](https://github.com/startsys/TU_REPO_2)
 
 
