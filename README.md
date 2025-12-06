@@ -41,6 +41,33 @@ kick
 
 
 ## 📊 Estadísticas de GitHub
+-- isntagram, yt 
+Estado de CI/CD / Builds
+
+Integración continua: GitHub Actions, Travis CI, CircleCI, etc.
+
+Ejemplo: ![Build Status](https://img.shields.io/github/workflow/status/TU_USUARIO/TU_REPO/CI)
+
+Versiones
+
+Versión de tu proyecto o librería.
+
+Ejemplo: ![Version](https://img.shields.io/badge/version-1.0.0-green)
+
+Licencia
+
+Tipo de licencia de tu proyecto.
+
+Ejemplo: ![License](https://img.shields.io/github/license/TU_USUARIO/TU_REPO)
+
+Descargas / Releases
+
+Número de descargas de releases o paquetes.
+
+Ejemplo: ![Downloads](https://img.shields.io/github/downloads/TU_USUARIO/TU_REPO/total)
+
+Estado de dependencias / vulnerabilidades
+
 
 ### Perfil
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true)
