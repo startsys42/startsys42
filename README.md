@@ -52,6 +52,10 @@ kick
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400&v=2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact&hide=html,css,scss&langs_count=6&v=2)
+
 ### Gráfica de Actividad
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=startsys42&theme=react-dark&bg_color=0d1117&hide_border=true)
 
@@ -82,7 +86,7 @@ kick
 
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPO1&theme=radical)](https://github.com/TU_USUARIO/REPO1)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 
 
 
