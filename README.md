@@ -52,7 +52,7 @@ Estado de CI/CD / Builds
 
 Integración continua: GitHub Actions, Travis CI, CircleCI, etc.
 
-Ejemplo: ![Build Status](https://img.shields.io/github/workflow/status/TU_USUARIO/TU_REPO/CI)
+Ejemplo: ![Build Status](https://img.shields.io/github/workflow/status/startsys42/startsys42/CI)
 
 Versiones
 
@@ -64,13 +64,13 @@ Licencia
 
 Tipo de licencia de tu proyecto.
 
-Ejemplo: ![License](https://img.shields.io/github/license/TU_USUARIO/TU_REPO)
+Ejemplo: ![License](https://img.shields.io/github/license/startsys42/startsys42)
 
 Descargas / Releases
 
 Número de descargas de releases o paquetes.
 
-Ejemplo: ![Downloads](https://img.shields.io/github/downloads/TU_USUARIO/TU_REPO/total)
+Ejemplo: ![Downloads](https://img.shields.io/github/downloads/startsys42/startsys42/total)
 
 Estado de dependencias / vulnerabilidades
 
