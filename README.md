@@ -49,8 +49,8 @@ kick
 ## 📊 Estadísticas de GitHub
 
 ### Perfil
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact)
 
 ### Gráfica de Actividad
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=startsys42&theme=react-dark&bg_color=0d1117&hide_border=true)
