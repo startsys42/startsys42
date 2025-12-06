@@ -1,19 +1,53 @@
-## Hi there 👋
+# Welcome to Startsys 
+
+Startsys is an interdisciplinary project.
+
+## Description
+
+This project integrates several creative and technical areas:
+
+- **Audiovisual:** Production of videos, clips, and animations.  
+- **Video Games:** Creation of games of various types and purposes.  
+- **Events:** Organization of technological, social and artistic events.  
+- **Research:**  
+
+  - **Robotics:** Hardware and software prototypes and experiments.  
+  - **Cryptography:** Examples and tools for security and encryption.  
+  - **Art:** Exploration of artistic projects and creativity.
+
+The goal is to **explore the intersection of art, technology, and human experience**.
+
+## RSS
+
+You can find more about the project on the [website](https://startsys42.github.io).
+
+Instagram:
+Discord:
+yt
+kick
 
 
-**startsys42/startsys42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+---
+
+
+
+## 📊 Estadísticas (Automáticas)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+## 🛠 Tecnologías utilizadas
+- Python, JavaScript, C++  
+- Unity / Godot  
+- Arduino / Raspberry Pi  
+- Blender, After Effects  
+- Bibliotecas de criptografía (PyCrypto, hashlib, etc.)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact)
 
@@ -30,4 +64,4 @@ Here are some ideas to get you started:
 
 
 
--->
+
