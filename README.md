@@ -27,19 +27,10 @@ yt
 kick
 
 
+## Destacado
 
+## Timeline
 
-
-
----
-
-
-
-## 📊 Estadísticas (Automáticas)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-
----
 
 ## 🛠 Tecnologías utilizadas
 - Python, JavaScript, C++  
@@ -47,6 +38,30 @@ kick
 - Arduino / Raspberry Pi  
 - Blender, After Effects  
 - Bibliotecas de criptografía (PyCrypto, hashlib, etc.)
+
+
+---
+
+
+
+
+
+## 📊 Estadísticas de GitHub
+
+### Perfil
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=startsys&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys&layout=compact&theme=radical&hide_border=true)
+
+### Gráfica de Actividad
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=startsys&theme=react-dark&bg_color=0d1117&hide_border=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startsys&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys&layout=compact)
