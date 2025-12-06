@@ -48,8 +48,8 @@ kick
 - Blender, After Effects  
 - Bibliotecas de criptografía (PyCrypto, hashlib, etc.)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys42&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startsys&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=startsys&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=startsys42&theme=react-dark)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
