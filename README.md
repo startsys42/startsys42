@@ -41,6 +41,12 @@ kick
 
 
 ## 📊 Estadísticas de GitHub
+
+<!-- STATS_START -->
+Aquí se actualizarán automáticamente los datos y gráficos.
+<!-- STATS_END -->
+
+
 -- isntagram, yt 
 Estado de CI/CD / Builds
 
