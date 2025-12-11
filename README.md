@@ -1,4 +1,4 @@
-# Welcome to Startsys 
+# Welcome to Startsys42
 
 Startsys is an interdisciplinary project.
 
