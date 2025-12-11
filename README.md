@@ -1,6 +1,6 @@
 # Welcome to Startsys42
 
-Startsys is an interdisciplinary project.
+Startsys42 is an interdisciplinary project.
 
 ## Description
 
