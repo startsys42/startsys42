@@ -15,7 +15,7 @@ This project integrates several creative and technical areas:
   - **Cryptography:** Examples and tools for security and encryption.  
   - **Art:** Exploration of artistic projects and creativity.
 
-The goal is to **explore the intersection of art, technology, and human experience**.
+The goal is to **explore art, technology, and human experience , and the intersection between them.**
 
 ## RSS
 
