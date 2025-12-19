@@ -24,7 +24,7 @@ You can find more about the project on the [website](https://startsys42.github.i
 Instagram:
 Discord:
 yt
-kick
+
 
 
 
