@@ -7,7 +7,7 @@ Startsys42 is an interdisciplinary project.
 This project integrates several creative and technical areas:
 
 - **Audiovisual:** Production of videos, clips, and animations.  
-- **Video Games:** Creation of games of various types and purposes.  
+- **Videogames:** Creation of games of various types and purposes.  
 - **Events:** Organization of technological, social and artistic events.  
 - **Research:**  
 
