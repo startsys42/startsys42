@@ -17,7 +17,7 @@ This project integrates several creative and technical areas:
 
 The goal is to **explore art, technology, and human experience, and the intersection between them.**
 
-## RSS
+## RRSS
 
 You can find more about the project on the [website](https://startsys42.github.io).
 
