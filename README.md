@@ -25,7 +25,14 @@ Instagram:
 Discord:
 yt
 
-
+ <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="startsys42's Github Stats" src="https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=startsys42&theme=algolia" alt="startsys42" />
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=startsys42&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="startsys42" height="192px"/>
+  <br/>
 
 
 
