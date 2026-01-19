@@ -25,6 +25,7 @@ Instagram:
 Discord:
 yt
 
+## 💻 GitHub Profile Stats<
  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="startsys42's Github Stats" src="https://github-readme-stats.vercel.app/api?username=startsys42&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
